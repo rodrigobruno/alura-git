@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div style="font-family: Arial, Helvetica, sans-serif;">
+        <div>
+            <b style="color:#38761d">
+                Por uma pegada mais leve,<br>
+                Equipe eCycle
+            </b>
+        </div>
+        <div><br></div>
+        <div>
+            <a href="mailto:contato@ecycle.com.br" style="color:#38761d" target="_blank">contato@ecycle.com.br</a>
+            <span style="color:#333">&nbsp;/&nbsp;</span>
+            <a href="http://www.ecycle.com.br/" style="color:#38761d" target="_blank">eCycle.com.br</a>
+        </div>
+        <div><br></div>
+        <div>
+            <img src="https://i.ibb.co/C61r7bF/147e61ef-696c-490a-b4fc-d6d70fa86328.png"
+                alt="Logo eCycle. Empresa B e CO2 Neutro">
+        </div>
+    </div>
+</body>
+
+</html>
